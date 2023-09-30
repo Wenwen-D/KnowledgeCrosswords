@@ -1,2 +1,3 @@
-# KnowledgeCrosswords
+# Knowledge Crosswords: Geometric Reasoning over Structured Knowledge with Large Language Models
 Official repository of "Knowledge Crosswords: Geometric Reasoning over Structured Knowledge with Large Language Models".
+Full release of code and results incoming...
