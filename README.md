@@ -1,5 +1,4 @@
-# KnowledgeCrosswords
-Official repository of "Knowledge Crosswords: Geometric Reasoning over Structured Knowledge with Large Language Models".
+# Knowledge Crosswords: Geometric Reasoning over Structured Knowledge with Large Language Models
 
 ## Dataset
 `KC_datasetwithKNS.jsonl` contains the question graph, blanks, answers, relevant knowledge for each knowledge crosswords; 
